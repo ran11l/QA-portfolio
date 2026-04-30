@@ -8,8 +8,11 @@ strong skills in manual testing, API testing, and defect tracking.
 
 ## Applications Tested
 Mazadat
+
 Mojaz
+
 Tawakkalna Water Service
+
 Munawl
 
 ## Skills
